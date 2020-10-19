@@ -1,7 +1,7 @@
 # Javascript-ES6-Challenge
 Javascript ES6 Challenge and Solution
 --------------------------------------------------------------------
-      To use these files, I recommend you to use nodejs 
+      Use NodeJs for easy compiling these files
 --------------------------------------------------------------------
 
 What is Node.js?
